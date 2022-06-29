@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "SJ2-35813A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/SJ2-35813A-SMT-TR")(options "")(descr ""))
+  (lib (name "Simple_Addon_v2")(type "KiCad")(uri "${KIPRJMOD}/lib/KiCad_SAOv2/SAOv2/Simple_Addon_v2.pretty")(options "")(descr ""))
+)

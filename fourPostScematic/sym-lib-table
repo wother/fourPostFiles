@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SJ2-35813A-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/lib/SJ2-35813A-SMT-TR/SJ2-35813A-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "Simple_Addon_v2")(type "Legacy")(uri "${KIPRJMOD}/lib/KiCad_SAOv2/SAOv2/Simple_Addon_v2.lib")(options "")(descr ""))
+)
